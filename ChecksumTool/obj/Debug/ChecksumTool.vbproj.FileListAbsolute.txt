@@ -1,0 +1,11 @@
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\obj\Debug\ChecksumTool.vbproj.GenerateResource.Cache
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\obj\Debug\ChecksumTool.vbprojResolveAssemblyReference.cache
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\bin\Debug\Checksum.exe.config
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\bin\Debug\Checksum.exe
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\bin\Debug\Checksum.pdb
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\bin\Debug\Checksum.xml
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\obj\Debug\Checksum.Form1.resources
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\obj\Debug\Checksum.Resources.resources
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\obj\Debug\Checksum.exe
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\obj\Debug\Checksum.xml
+C:\Users\Kristo\Documents\Visual Studio 2013\Projects\ChecksumTool\ChecksumTool\obj\Debug\Checksum.pdb
